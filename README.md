@@ -1,2 +1,3 @@
 # Leetcode-Solutions
-Solutions to popular leetcode problems
+
+Solutions to some of popular leetcode problems in C++
