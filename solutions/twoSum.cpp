@@ -1,4 +1,4 @@
-// Link to problem : https://leetcode.com/problems/two-sum/
+// Link to problem statement : https://leetcode.com/problems/two-sum/
 // Solution:
 
 class Solution {
