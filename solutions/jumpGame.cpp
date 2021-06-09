@@ -9,7 +9,6 @@ class Solution {
 public:
     int maxResult(vector<int>& nums, int k, int i=0) {    
         int sum=INT_MIN;
-        cout<<sum<<endl;
         if(i>=nums.size()-1)
             return nums[i];
         for(int j=1;j<=k;j++)
